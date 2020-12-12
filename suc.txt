@@ -1,0 +1,12 @@
+total 24
+-rw-rw-r-- 1 user1 user1 1454 Nov 28 14:09 gmailconfig.txt
+-rw-rw-r-- 1 user1 user1    0 Nov 29 21:06 f2
+-rw-rw-r-- 1 user1 user1    0 Nov 29 21:20 f3
+-rwxrw-r-- 1 user1 user1  136 Nov 30 03:46 demo.sh
+-rw-rw-r-- 1 user1 user1   62 Nov 30 03:51 f1
+-rw-rw-r-- 1 user1 user1  303 Nov 30 03:53 f4
+-rw-rw-r-- 1 user1 user1    0 Nov 30 03:55 demo.txt
+-rw-rw-r-- 1 user1 user1  163 Nov 30 04:32 t.txt
+-rw-rw-r-- 1 user1 user1    0 Nov 30 04:33 succ.txt
+-rw-rw-r-- 1 user1 user1   26 Nov 30 04:33 err.txt
+-rw-rw-r-- 1 user1 user1    0 Nov 30 04:35 suc.txt

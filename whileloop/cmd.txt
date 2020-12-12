@@ -1,0 +1,2 @@
+$(ls),$(date),$(uptime),$(pwd)
+$(calender),$(w),$(free-m)

@@ -1,0 +1,33 @@
+total 48
+-rw-rw-r-- 1 user1 user1 1454 Nov 28 14:09 gmailconfig.txt
+-rw-rw-r-- 1 user1 user1    0 Nov 29 21:20 f3
+-rwxrw-r-- 1 user1 user1  136 Nov 30 03:46 demo.sh
+-rw-rw-r-- 1 user1 user1  303 Nov 30 03:53 f4
+-rw-rw-r-- 1 user1 user1    0 Nov 30 03:55 demo.txt
+-rw-rw-r-- 1 user1 user1  163 Nov 30 04:32 t.txt
+-rw-rw-r-- 1 user1 user1  558 Nov 30 04:35 suc.txt
+drwxrwxr-x 2 user1 user1 4096 Nov 30 04:57 dev
+-rw-rw-r-- 1 user1 user1   25 Nov 30 05:04 mysearch
+-rw-rw-r-- 1 user1 user1  285 Nov 30 14:07 f1
+-rw-rw-r-- 1 user1 user1  129 Nov 30 15:45 f2
+-rw-rw-r-- 1 user1 user1  181 Nov 30 16:43 myserver_info
+-rw-rw-r-- 1 user1 user1  101 Nov 30 18:16 practice.txt
+-rw-rw-r-- 1 user1 user1    0 Dec  1 03:39 succ.txt
+-rw-rw-r-- 1 user1 user1   37 Dec  1 03:39 err.txt
+-rw-rw-r-- 1 user1 user1    0 Dec  1 03:54 abc.txt
+abc.txt
+demo.sh
+demo.txt
+dev
+err.txt
+f1
+f2
+f3
+f4
+gmailconfig.txt
+mysearch
+myserver_info
+practice.txt
+suc.txt
+succ.txt
+t.txt
