@@ -1,0 +1,8 @@
+
+Command 'adce' not found, did you mean:
+
+  command 'ace' from deb ace (0.0.5-3)
+  command 'ace' from deb libace-perl (1.92-8build1)
+
+Try: apt install <deb name>
+

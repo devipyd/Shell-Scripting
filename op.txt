@@ -1,0 +1,4 @@
+
+Gitversion=  version
+OSuname= 
+
