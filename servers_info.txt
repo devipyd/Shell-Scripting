@@ -1,0 +1,3 @@
+18.224.246.199 user1 password "whoami"
+18.188.164.66 testuser password "date"
+18.217.160.69 Arshi password "w"
